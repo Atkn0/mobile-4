@@ -1,0 +1,16 @@
+name: bim493_barcode_app
+description: BIM 493 Mobile Programming I - Assignment 4
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path: ^1.9.0
+  provider: ^6.1.2
+
+flutter:
+  uses-material-design: true
